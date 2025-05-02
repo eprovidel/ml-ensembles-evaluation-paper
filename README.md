@@ -37,4 +37,4 @@ link](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0). The
 folder contains both Twitter15 and Twitter16 datasets. As specified by the
 original authors: *"Note that constrained by the terms of Twitter service, we
 cannot contain the content of the rest of the tweets. Data users can obtain the
-sepcifics based on the provided tweet IDs and uids by their own."*
+specifics based on the provided tweet IDs and uids by their own."*
